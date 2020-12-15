@@ -31,7 +31,7 @@ export default {
                     index: 0,
                     name: "Imran Ibragimov",
                     title: "CEO & Game Developer",
-                    imageSrc: "https://sun9-57.userapi.com/impg/mO-c2hBmvi5jsARRpZuQxudjb2fPLBShA32lrA/co-YFN7iHwE.jpg?size=1104x1472&quality=96&proxy=1&sign=5f973efa203164a5692c72ac30142256&type=album",
+                    imageSrc: "/imran.jpg",
                     description: "Waaaaaaaaaaaaaaaaaaaaaaat"
                 },
                 {
